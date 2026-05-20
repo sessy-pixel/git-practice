@@ -1,3 +1,0 @@
-hello devops
-changed from github
-second line
